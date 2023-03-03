@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "email": "minkhiet1415@iclould.com",
+      "password": "$2a$10$HQw0UgH5GQ3Wup7QgqcwR.S17wetaPlaDZupQJDIMT59KCnxp8b..",
+      "fullname": "minhkhiet",
+      "repassword": "111111",
+      "phone": "0988888888",
+      "address": "bắc giang",
+      "id": 3
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$MZKK0LthD2FbgzslxZA1/uL5KUHRutUW4eEHqDKpF7qw9lGAoLZs.",
+      "fullname": "admin",
+      "repassword": "111111",
+      "phone": "111111",
+      "address": "aaaaaaa",
+      "id": 4,
+      "permission": 1
+    },
+    {
+      "email": "hieu11@gmail.com",
+      "password": "$2a$10$8F/2s699cUIzXu2asLhxD.qoGNOBZTgeyxi6IFma3tgj0Ph5NRl7.",
+      "fullname": "hieuhoa",
+      "repassword": "11111111",
+      "phone": "000000000",
+      "address": "thai binh mo hoi roi",
+      "id": 5
+    },
+    {
+      "email": "hieuhoa@gmail.com",
+      "password": "$2a$10$rtgfYrTi.A5x08KwC0KcXeWA1uVcsbdA/QqlWEj5.OfAQf9WZzAsS",
+      "fullname": "hieuhoa1",
+      "repassword": "aaaaaa",
+      "phone": "11111",
+      "address": "aaaa",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "name": "nice air 27c",
+      "price": "200",
+      "imageUrls": "https://giaysneakerhcm.com/wp-content/uploads/2020/05/giay-nike-airmax-270-full-trang-5-avatar.jpg",
+      "id": 1
+    },
+    {
+      "name": "nice air max",
+      "price": "250",
+      "imageUrls": "https://cf.shopee.vn/file/5b37333b6d32d6ab103a1620eee842c1",
+      "id": 2
+    },
+    {
+      "name": "nice air",
+      "price": "150",
+      "imageUrls": "https://giaysneakerhcm.com/wp-content/uploads/2020/05/giay-nike-airmax-270-full-trang-5-avatar.jpg",
+      "id": 3
+    },
+    {
+      "name": "nice ari jordan",
+      "price": "100",
+      "imageUrls": "https://firebasestorage.googleapis.com/v0/b/projectmd2-430a0.appspot.com/o/images%2Fair-jordan-1-retro-high-og-gs-heritage-575441-161-giay-nike-2-42b5a6c0-3f23-4618-9bec-72555bc0883d.webp?alt=media&token=7adfdc57-d7d7-4dcd-af9e-e7afde316ce6",
+      "id": 4
+    },
+    {
+      "name": "nice air max",
+      "price": "210",
+      "imageUrls": "https://firebasestorage.googleapis.com/v0/b/projectmd2-430a0.appspot.com/o/images%2Fgiay-Nike-air-max-97-x-dior-gia-re-ha-noi-3-scaled-e1602517371677.jpg?alt=media&token=4ecc4f7d-b3cb-4db8-a490-d40373c36e66",
+      "id": 5
+    },
+    {
+      "name": "adidas-eq21",
+      "price": "222",
+      "imageUrls": "https://firebasestorage.googleapis.com/v0/b/projectmd2-430a0.appspot.com/o/images%2Fgiay-adidas-eq21-gz0591-01.webp?alt=media&token=3153ed1c-6abe-4965-bfc1-337906f0268a",
+      "id": 6
+    },
+    {
+      "name": "adidas-zx-2k-boot",
+      "price": "221",
+      "imageUrls": "https://firebasestorage.googleapis.com/v0/b/projectmd2-430a0.appspot.com/o/images%2FGiay-Adidas-ZX-2K-Boost-the-thao-nam-nu-replica-1-1-real-chinh-hang-DA419-1.jpg?alt=media&token=244bfd1e-0d58-4777-a3d3-2aa05a3fca38",
+      "id": 7
+    },
+    {
+      "name": "Royal Blue",
+      "price": "222",
+      "imageUrls": "https://firebasestorage.googleapis.com/v0/b/projectmd2-430a0.appspot.com/o/images%2Fm2nltcj4uwd-mocbytimil-ldcrt-ac7txspjkhscowikr-vn5yme81isbw3cowmraele-pksvhgjoengixy-ynulerltdon11-ynjvd9s0lidajytp99nfejifcadfw68oj8s9cdbzm3urk3lgyplum2jyjpop213-runk7s-d1eur4ex03d9xocrontldqcpimsmjqc2v0iyvdd6fnxnyx2eqox.jpg?alt=media&token=62dcec3b-67aa-4f8c-97b9-0c7f5fdbf5c4",
+      "id": 8
+    },
+    {
+      "name": "jordan",
+      "price": "333",
+      "imageUrls": "https://firebasestorage.googleapis.com/v0/b/projectmd2-430a0.appspot.com/o/images%2Fimages.jpeg?alt=media&token=f47ab711-e739-42b3-8c73-707aeee20ea2",
+      "id": 9
+    },
+    {
+      "name": "Balencia",
+      "price": "200",
+      "imageUrls": "https://firebasestorage.googleapis.com/v0/b/projectmd2-430a0.appspot.com/o/images%2F10-mau-giay-balenciaga-duoc-san-don-va-cach-phoi-do-chuan-bia.webp?alt=media&token=50860052-101d-463f-91b3-76b061d2b813",
+      "id": 10
+    },
+    {
+      "name": "Balenciaga- triple",
+      "price": "300",
+      "imageUrls": "https://firebasestorage.googleapis.com/v0/b/projectmd2-430a0.appspot.com/o/images%2Fbalenciaga-triple-s-rep-hong-de-trong-HS-Sneaker-e1566189241910.jpg?alt=media&token=8aa110fd-a51d-42ec-a523-151d81411bae",
+      "id": 11
+    },
+    {
+      "name": "Balenciaga-ZKblue",
+      "price": "444",
+      "imageUrls": "https://firebasestorage.googleapis.com/v0/b/projectmd2-430a0.appspot.com/o/images%2FIMG_0548.jpg?alt=media&token=c1179b13-0ce7-4317-be02-a181643a79b5",
+      "id": 12
+    }
+  ],
+  "carts": []
+}
